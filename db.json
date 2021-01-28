@@ -111,34 +111,6 @@
             "date": "20.12.20",
             "price": "25 350",
             "photo": "~/assets/img/models/item4.png"
-        },
-        {
-            "id": 17,
-            "name": "Jordan 4 Retro Metallic Orange",
-            "date": "13.04.19",
-            "price": "19 500",
-            "photo": "~/assets/img/models/item5.png"
-        },
-        {
-            "id": 18,
-            "name": "Jordan 5 Retro SE Oregon",
-            "date": "22.09.18",
-            "price": "29 880",
-            "photo": "~/assets/img/models/item6.png"
-        },
-        {
-            "id": 19,
-            "name": "Nike Air Max 90 Reverse Duck Camo (2020)",
-            "date": "12.04.18",
-            "price": "27 540",
-            "photo": "~/assets/img/models/item1.png"
-        },
-        {
-            "id": 20,
-            "name": "Nike Dunk High Varsity Maize",
-            "date": "01.01.19",
-            "price": "18 300",
-            "photo": "~/assets/img/models/item2.png"
         }
     ],
     "profile": {
