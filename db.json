@@ -5,28 +5,28 @@
             "name": "Jordan 1 Mid Chicago Toe",
             "date": "20.12.20",
             "price": "27 990",
-            "photo": "../assets/img/models/item1.png"
+            "photo": "../../assets/img/models/item1.png"
         },
         {
             "id": 2,
             "name": "Nike Dunk High Varsity Maize",
             "date": "20.12.20",
             "price": "27 990",
-            "photo": "../assets/img/models/item2.png"
+            "photo": "../../assets/img/models/item2.png"
         },
         {
             "id": 3,
             "name": "Jordan 1 Retro High Royal Toe",
             "date": "17.07.20",
             "price": "22 290",
-            "photo": "../assets/img/models/item3.png"
+            "photo": "../../assets/img/models/item3.png"
         },
         {
             "id": 4,
             "name": "Jordan 12 Retro Black University Gold",
             "date": "21.05.20",
             "price": "24 490",
-            "photo": "../assets/img/models/item4.png"
+            "photo": "../../assets/img/models/item4.png"
         },
         {
             "id": 5,
